@@ -5,3 +5,5 @@ Git tracks changes of files.
 Git push test
 change from a new branch dev hard and slow.
 change from feature1 again
+adding more code from feature1 after the first push
+
