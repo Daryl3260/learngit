@@ -3,4 +3,4 @@ Git is free software under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git push test
-change from branch dev.
+change from a new branch dev hard and slow.
