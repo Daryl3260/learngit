@@ -3,4 +3,5 @@ Git is free software under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git push test
-Git push to one branch only?
+change from a new branch dev hard and slow.
+change from feature1 again
